@@ -1,6 +1,6 @@
 ---
 title: Lifted Universe
-featured_image: "/images/lifted_logo.png"
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 description: ''
 
 ---
