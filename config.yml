@@ -1,6 +1,6 @@
 baseURL: "http://example.org/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Lifted v1"
 
 module:
   imports:
@@ -18,9 +18,9 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: A Superhero RPG site.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: 'https://twitter.com/madjayzero'
   instagram: ''
   youtube: ''
   github: ''
@@ -32,4 +32,4 @@ params:
   rss: ''
   background_color_class: bg-black
   featured_image: /images/gohugo-default-sample-hero-image.jpg
-  recent_posts_number: 2
+  recent_posts_number: 4
