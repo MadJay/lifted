@@ -1,11 +1,10 @@
-baseURL: "http://lifteduniverse.com/"
-languageCode: "en-us"
-title: "Lifted v1"
-
+---
+baseURL: http://lifteduniverse.com/
+languageCode: en-us
+title: Lifted v1
 module:
   imports:
-    - path: github.com/theNewDynamic/gohugo-theme-ananke
-
+  - path: github.com/theNewDynamic/gohugo-theme-ananke
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 3
@@ -20,7 +19,7 @@ params:
   site_logo: ''
   description: A Superhero RPG site.
   facebook: ''
-  twitter: 'https://twitter.com/madjayzero'
+  twitter: https://twitter.com/madjayzero
   instagram: ''
   youtube: ''
   github: ''
@@ -31,5 +30,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 4

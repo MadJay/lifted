@@ -5,5 +5,8 @@ disable_share = false
 featured_image = "/images/lifted_logo.png"
 tags = ["scene"]
 title = ""
+[menu.main]
+name = "Blog"
+weight = 2
 
 +++
