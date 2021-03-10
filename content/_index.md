@@ -1,5 +1,5 @@
 ---
-title: ''
+title: "  "
 featured_image: "/images/liftedbanner_d-1.png"
 description: ''
 
