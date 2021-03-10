@@ -1,7 +1,7 @@
 ---
-title: Lifted Universe
+title: ''
 featured_image: "/images/liftedbanner_d-1.png"
 description: ''
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Some humans have suddenly begun manifesting superpowers, being Lifted. A techno-aggressive world reacts. What will you do?
