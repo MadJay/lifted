@@ -1,6 +1,6 @@
 ---
 title: Lifted Universe
-featured_image: "/images/liftedbanner_e-2.png"
+featured_image: "/images/liftedbanner_d-1.png"
 description: ''
 
 ---
