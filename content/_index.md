@@ -1,5 +1,5 @@
 ---
-title: " "
+title: " The Lifted Universe"
 featured_image: "/images/liftedbanner_d-1.png"
 description: " "
 key: The Lifted Universe
