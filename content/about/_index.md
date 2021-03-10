@@ -1,11 +1,9 @@
 ---
 title: About
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
+description: ''
 featured_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+Jahmal “Mad Jay” Brown a freelance TTRPG writer with credits including PRIME Supers for Cortex Prime, Pathfinder’s Mwangi Expanse, Fate Clockwinders, and his own By Acer’s Light for Burning Wheel and Dungeon World also funded by Kickstarter. He has been a contributing author to RPG projects like Hit the Streets, Defend the Block, Trophy Dark, and Out of the Ashes. He likes games and stories about outsiders and underdogs. Jay games with his kids and loves his momma but she doesn’t game yet.
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+![](https://ksr-ugc.imgix.net/assets/032/395/920/d3e3f8800814fe43b4f6fc83f822b50b_original.jpeg?ixlib=rb-2.1.0&w=680&fit=max&v=1613493904&auto=format&frame=1&q=92&s=c8ca14a1804037c815a5f97d74af7a3b)
